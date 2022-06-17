@@ -1,2 +1,2 @@
 # web
-Contoh Web
+Hanya Contoh
